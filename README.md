@@ -14,7 +14,9 @@ How to Use: Instructions on how to run the code and replicate the analysis, incl
 Acknowledgements: Recognition of any sources or individuals whose contributions were instrumental to the project.
 
 Result:
-![Image Description]("C:\Users\anasb\OneDrive\Desktop\download.png"){:height="200px" width="400px"}
+what I noticed here is that the movie durations seem to remain pretty stable over the years, which is interesting. However, what's really catching my attention is the emergence of new types of movies in the recent years. It seems like the film industry is continuously evolving, introducing fresh genres to appeal to different audiences. This insight gives us a deeper understanding of the changes happening in the movie landscape beyond just the length of films.
+
+![Image Description]("download.png"){:height="200px" width="400px"}
 
 
 How to Use:
