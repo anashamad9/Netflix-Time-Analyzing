@@ -16,7 +16,7 @@ Acknowledgements: Recognition of any sources or individuals whose contributions 
 Result:
 what I noticed here is that the movie durations seem to remain pretty stable over the years, which is interesting. However, what's really catching my attention is the emergence of new types of movies in the recent years. It seems like the film industry is continuously evolving, introducing fresh genres to appeal to different audiences. This insight gives us a deeper understanding of the changes happening in the movie landscape beyond just the length of films.
 
-![Image Description](Netflix-Time-Analyzing/download.png)
+![Image Description](download.png)
 
 
 How to Use:
